@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/JimmyToluene/CLionProjects/Scanner/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/JimmyToluene/CLionProjects/Scanner",
+	"dir-top-bld" : "C:/Users/JimmyToluene/CLionProjects/Scanner/cmake-build-debug",
+	"dir-top-src" : "C:/Users/JimmyToluene/CLionProjects/Scanner",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/JimmyToluene/CLionProjects/Scanner/cmake-build-debug/CMakeFiles/Scanner.dir"
+}

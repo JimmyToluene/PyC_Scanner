@@ -1,0 +1,3 @@
+C:/Users/JimmyToluene/CLionProjects/Scanner/cmake-build-debug/CMakeFiles/Scanner.dir
+C:/Users/JimmyToluene/CLionProjects/Scanner/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/JimmyToluene/CLionProjects/Scanner/cmake-build-debug/CMakeFiles/rebuild_cache.dir
